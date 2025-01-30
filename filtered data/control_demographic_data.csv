@@ -1,0 +1,31 @@
+subject_no,gender,age ,education,occupation,family_history
+1,F,23,H,NPS,Not to the extent of knowledge
+2,F,21,H,NPS,Not to the extent of knowledge
+3,F,33,H,P,Grandmother has late onset parkinsons
+4,F,24,H,NPS,Grandmother has alzheimers 
+5,M,25,H,NPS,Not to the extent of knowledge
+6,F,20,H,NPS,Not to the extent of knowledge
+7,M,25,H,NPS,Not to the extent of knowledge
+8,F,30,H,NPS,Not to the extent of knowledge
+9,F,22,H,NPS,Not to the extent of knowledge
+10,M,32,H,P,Distant relative has parkinsons
+11,F,33,H,P,Mild case of arthritis in immediate relatives
+12,M,32,F,NPS,Not to the extent of knowledge
+13,F,25,H,P,Great grandmother has parkinsons (not sure)
+14,F,23,H,NPS,Grandmother has arthritis 
+15,M,22,H,NPS,Not to the extent of knowledge
+16,M,22,H,NPS,Not to the extent of knowledge
+17,F,33,H,P,Grandmother has Alzheirmers + Parkinsons (Complex)
+18,F,37,F,P,Grandfather has parkinsons 
+19,F,33,H,P,Not to the extent of knowledge
+20,F,28,F,P,Grandfather has parkinsons 
+21,F,22,H,NPS,Grandfather had frontal lobe dementia; Grandmother has mild Schizophrenia 
+22,F,23,H,P,Not to the extent of knowledge
+23,M,65,H,P,"Subjects both palm were injured, possible nerve damage"
+24,M,45,S,P,Paternal Grandmother and Father has parkinsons 
+25,F,41,H,P,Not to the extent of knowledge
+26,M,40,H,P,Not to the extent of knowledge
+27,F,34,H,P,Not to the extent of knowledge
+28,M,22,S,P,Not to the extent of knowledge
+29,M,32,H,P,Not to the extent of knowledge
+30,M,45,S,P,Not to the extent of knowledge
